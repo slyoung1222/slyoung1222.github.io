@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shannon Young on Persian</title>
-    <link>https://www.example.com/about/</link>
-    <description>Recent content in Shannon Young on Persian</description>
+    <title>Shannon Young</title>
+    <link>https://slyoung1222.github.io/about/</link>
+    <description>Recent content on Shannon Young</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.example.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://slyoung1222.github.io/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
